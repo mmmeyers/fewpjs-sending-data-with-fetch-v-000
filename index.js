@@ -18,6 +18,6 @@ function submitData(name, email) {
       return response.json();
     })
     .then(function(object) {
-      
+      document.body.innerHTML
     })
 }
