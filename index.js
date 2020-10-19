@@ -1,1 +1,3 @@
-function submitData
+function submitData(name, email) {
+  
+}
