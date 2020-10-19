@@ -5,6 +5,6 @@ function submitData(name, email) {
   };
   
   let postObj = {
-    method: 
+    method: 'POST'
   }
 }
