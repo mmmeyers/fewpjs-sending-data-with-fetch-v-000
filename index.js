@@ -10,5 +10,6 @@ function submitData(name, email) {
       'Content-Type': 'application/json',
       'Accept': 'application/json'
     },
+    body:
   }
 }
