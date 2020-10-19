@@ -13,5 +13,5 @@ function submitData(name, email) {
     body: JSON.stringify(userData)
   };
   
-  return fetch()
+  return fetch('http://localhost')
 }
