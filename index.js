@@ -17,4 +17,5 @@ function submitData(name, email) {
     .then(function(response) {
       return response.json();
     })
+    .then
 }
