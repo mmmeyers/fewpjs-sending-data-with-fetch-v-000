@@ -21,6 +21,6 @@ function submitData(name, email) {
       document.body.innerHTML = object['id']
     })
     .catch(function(error) {
-      document.body.innerHTML
+      document.body.innerHTML = error.message
     })
 }
