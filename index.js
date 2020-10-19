@@ -4,5 +4,7 @@ function submitData(name, email) {
     email: email
   };
   
-  let postObj
+  let postObj = {
+    
+  }
 }
