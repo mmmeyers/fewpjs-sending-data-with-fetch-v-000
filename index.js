@@ -7,7 +7,8 @@ function submitData(name, email) {
   let postObj = {
     method: 'POST',
     headers: {
-      'Content-Type': 'application/json'
+      'Content-Type': 'application/json',
+      
     }
   }
 }
