@@ -1,5 +1,6 @@
 function submitData(name, email) {
   let userData = {
-    name: name;
+    name: name,
+    email: email
   }
 }
