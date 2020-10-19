@@ -20,5 +20,5 @@ function submitData(name, email) {
     .then(function(object) {
       document.body.innerHTML = object['id']
     })
-    .catch
+    .catch(function(error))
 }
